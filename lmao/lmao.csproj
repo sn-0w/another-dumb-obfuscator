@@ -45,8 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cflow\blockshit.cs" />
+    <Compile Include="cflow\blockshitparser.cs" />
+    <Compile Include="cflow\cflow.cs" />
+    <Compile Include="methodproxy.cs" />
     <Compile Include="proxystring.cs" />
-    <Compile Include="renamer.cs" />
+    <Compile Include="renamerjunk.cs" />
     <Compile Include="NamingList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
