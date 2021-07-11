@@ -22,10 +22,10 @@ namespace lmao
       
             public static void Renamer(ModuleDef moduleDef)
         {
-            moduleDef.Name = "FloppaᅠGamingᅠ<OBFUSCATOR>";
-            moduleDef.GlobalType.Name = "FloppaᅠGamingᅠ<OBFUSCATOR>";
-            moduleDef.GlobalType.Namespace = "FloppaᅠGamingᅠ<OBFUSCATOR>";
-            moduleDef.EntryPoint.Name = "FloppaᅠGamingᅠ<OBFUSCATOR>";
+            moduleDef.Name = "🐶🐶🐶FloppaᅠGamingᅠ<OBFUSCATOR>🐶🐶🐶";
+            moduleDef.GlobalType.Name = "🐶🐶🐶FloppaᅠGamingᅠ<OBFUSCATOR>🐶🐶🐶";
+            moduleDef.GlobalType.Namespace = "🐶🐶🐶FloppaᅠGamingᅠ<OBFUSCATOR>🐶🐶🐶";
+            moduleDef.EntryPoint.Name = "🐶🐶🐶FloppaᅠGamingᅠ<OBFUSCATOR>🐶🐶🐶";
             foreach (var type in moduleDef.Types)
             {
 
